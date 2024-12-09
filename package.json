@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@azure/cosmos": "^4.2.0",
+    "@azure/storage-blob": "^12.26.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
